@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-03T19:35:39" hostname="Gebruikers-MacBook-Pro.local" time="0.22">
+  <properties/>
+  <testcase name="start" classname="ReadabilityTest" time="0.22"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Words: 108
+Sentences: 6
+Characters: 580
+Syllables: 185
+Polysyllables: 19
+Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+
+Automated Readability Index: 12.864444444444452 (about 24 year olds.)
+
+Flesch–Kincaid readability tests: 11.642962962962962 (about 18 year olds.)
+
+Simple Measure of Gobbledygook: 13.295006501635747 (about 24 year olds.)
+
+Coleman–Liau index: 13.295006501635747 (about 24 year olds.)
+
+This text should be understood in average by 22.5 year olds.
+?[1;31m
+Start test 2?[0m
+Words: 137
+Sentences: 14
+Characters: 687
+Syllables: 202
+Polysyllables: 16
+Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+
+Automated Readability Index: 7.081616266944735 (about 13 year olds.)
+
+Flesch–Kincaid readability tests: 5.624968717413974 (about 12 year olds.)
+
+Simple Measure of Gobbledygook: 9.236282656511921 (about 15 year olds.)
+
+Coleman–Liau index: 9.236282656511921 (about 15 year olds.)
+
+This text should be understood in average by 13.75 year olds.
+?[1;31m
+Start test 3?[0m
+Words: 180
+Sentences: 13
+Characters: 982
+Syllables: 298
+Polysyllables: 29
+Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+
+Automated Readability Index: 11.188743589743588 (about 17 year olds.)
+
+Flesch–Kincaid readability tests: 9.34555555555556 (about 15 year olds.)
+
+Simple Measure of Gobbledygook: 11.661520659325951 (about 18 year olds.)
+
+Coleman–Liau index: 11.661520659325951 (about 18 year olds.)
+
+This text should be understood in average by 17.0 year olds.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
